@@ -1,4 +1,3 @@
-PRUEBA
 *Copiar y pegar esto en el Gist de evaluación*
 
 ## Checklist del proyecto Home Banking
