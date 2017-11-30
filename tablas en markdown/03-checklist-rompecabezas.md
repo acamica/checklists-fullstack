@@ -1,6 +1,6 @@
 *Copiar y pegar esto en el Gist de evaluación*
 
-## Checklist del proyecto CV Online
+## Checklist del proyecto Rompecabezas
 Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con **todas** las condiciones del checklist correspondiente.
 
 ### Para aprobar el proyecto
