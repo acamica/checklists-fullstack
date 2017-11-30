@@ -7,17 +7,17 @@ Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con 
 | Condiciones de aprobación                       | Cumplió |
 | :---------------------------------------------- | ------- |
 | Creación de elementos HTML                      |         |
-| Sección Quién Soy						              		  |         |
+| Sección Quién Soy						          |         |
 | Secciones Formación y Experiencia               |         |
-| Sección Portfolio					                      |         |
-| Menú de navegación				                      |         |
-| Estilado del menú						            	      |         |
-| Estilado de secciones				            			  |         |
+| Sección Portfolio					              |         |
+| Menú de navegación				              |         |
+| Estilado del menú						          |         |
+| Estilado de secciones				              |         |
 
 ### Para obtener categoría hacker
 | Condiciones hacker                     | Cumplió |
 | :------------------------------------- | ------- |
 | Correcto uso de clases y id            |         |
-| Nuevas Secciones 				               |         |
-| Estilado extra 			                   |         |
-| Prolijidad en el código				         |         |
+| Nuevas Secciones 				         |         |
+| Estilado extra 			             |         |
+| Prolijidad en el código				 |         |

@@ -5,7 +5,7 @@ Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con 
 
 ### Para aprobar el proyecto
 | Condiciones de aprobación                       | Cumplió |
-| :----------------------------------------------- | ------- |
+| :-----------------------------------------------| ------- |
 | Declaración de variables                        |         |
 | Funcionalidad de cambio de límite de extracción |         |
 | Funcionalidad de depósito de dinero             |         |
@@ -18,7 +18,7 @@ Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con 
 
 ### Para obtener categoría hacker
 | Condiciones hacker                     | Cumplió |
-| :-------------------------------------- | ------- |
+| :--------------------------------------| ------- |
 | Código modularizado y reutilizable     |         |
 | Nueva funcionalidad o validación extra |         |
 | Prolijidad en el código                |         |
