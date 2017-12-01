@@ -18,7 +18,7 @@ Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con 
 ### Para obtener categoría hacker
 | Condiciones hacker                     | Cumplió |
 | :--------------------------------------| ------- |
-| Nuevos enemigos						 |         |
+| Funcionalidades extra					 |         |
 | Código modularizado y reutilizable 	 |         |
 | Buenas nomenclaturas					 |		   |
 | Prolijidad en el código				 |		   |
