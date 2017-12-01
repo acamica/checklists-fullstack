@@ -9,7 +9,7 @@ Para que un proyecto apruebe u obtenga categoría hacker, tiene que cumplir con 
 | Objeto juego				                          		   |         |
 | Objeto jugador										       |         |
 | Objeto obstáculo							     			   |         |
-| Objeto zombie conductor y    		       |         |
+| Objeto zombie conductor    		       					   |         |
 | Creación de la carretera				       			       |         |
 | Herencia										 			   |         |
 | Definición de responsabilidades							   |         |
