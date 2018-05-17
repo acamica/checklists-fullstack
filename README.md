@@ -1,4 +1,4 @@
-# evaluacion-tecnica
+# Checklists para evaluación técnica de la carrera de Desarrollo Web Full Stack
 
 En este repo vas a encontrar los checklist de evaluación de todos los proyectos de la carrera de Desarrollo Web Full Stack de Acámica. 
 
